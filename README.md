@@ -26,8 +26,10 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
 - https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 
- Links to an external site.-  Links to an external site.Links to an external site.
+ Links to an external site.-  Links to an external site.
 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 # Requirement
 - JavaScript
+# Installation
+-git clone git@github.com:OsteenK/CodeChallenge.git
